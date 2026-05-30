@@ -1,0 +1,10 @@
+constante decimal: 123
+constante octal: 0777
+constante hexadecimal: 0x1A
+identificador: miVariable
+identificador: _count
+caracter no reconocido: @
+caracter no reconocido: #
+constante decimal: 456
+constante octal: 0
+identificador: hola_mundo
