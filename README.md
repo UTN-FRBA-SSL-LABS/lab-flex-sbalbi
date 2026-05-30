@@ -220,7 +220,7 @@ Respondé cada pregunta reemplazando el espacio en blanco con la opción correct
 Opciones: `ECHO` | `IGNORA` | `ERROR`
 
 ```
-P1=
+P1=ECHO
 ```
 
 **P2** — Cuando dos reglas coinciden con **exactamente la misma cantidad de caracteres**, ¿cuál elige Flex?
